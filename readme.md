@@ -68,5 +68,3 @@ atividade-python-pratica/
 * **Git & GitHub** - Controle de versão e hospedagem do código.
 
 ---
-Desenvolvido por **Seu Nome** | [Seu Perfil no GitHub](https://github.com)
-
